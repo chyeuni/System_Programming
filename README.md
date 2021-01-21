@@ -16,5 +16,5 @@ score : 87
 Treg 값에 대한 출력 필요
 
 ## Proj4
-MNIST dataset 이미지 분류
+MNIST dataset 이미지 분류  
 score : 100
