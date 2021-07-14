@@ -12,4 +12,3 @@ SIC/XE machine3
 
 ## Proj4
 MNIST dataset 이미지 분류  
-score : 100
