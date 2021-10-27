@@ -7,7 +7,7 @@ SIC/XE 머신을 구현하기 위한 전 단계로서 어셈블러, 링크, 로�
 ## Proj2 (SIC/XE machine 2) 
 
 ## Proj3 (SIC/XE machine 3)
-Project 1,2 에서 구현한 shell에 linking과 loading 기능을 추가. 
+Project 1,2 에서 구현한 shell에 linking과 loading 기능을 추가.  
 project 2에서 구현된 assemble 명령을 통해서 생성된 object 파일을 link 시켜 메모리에 올리는 기능 구현.
 
 ## Proj4
